@@ -1,0 +1,15 @@
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\bin\Debug\net6.0\poo-project.exe
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\bin\Debug\net6.0\poo-project.deps.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\bin\Debug\net6.0\poo-project.runtimeconfig.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\bin\Debug\net6.0\poo-project.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\bin\Debug\net6.0\poo-project.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.csproj.AssemblyReference.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.AssemblyInfoInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.AssemblyInfo.cs
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.csproj.CoreCompileInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\refint\poo-project.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\poo-project.genruntimeconfig.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\poo-project\obj\Debug\net6.0\ref\poo-project.dll
